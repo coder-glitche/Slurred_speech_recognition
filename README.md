@@ -75,11 +75,11 @@ The system aims to improve quality of life and communication accessibility for i
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/3.png" alt="Transcription Result" width="100%"/>
+      <img src="docs/33.png" alt="Transcription Result" width="100%"/>
       <p align="center"><b>Transcription Output</b><br/>Clear speech converted to text</p>
     </td>
     <td width="50%">
-      <img src="docs/4.png" alt="Communication Assistant" width="100%"/>
+      <img src="docs/44.png" alt="Communication Assistant" width="100%"/>
       <p align="center"><b>Communication Assistant</b><br/>Button-based needs selection</p>
     </td>
   </tr>
