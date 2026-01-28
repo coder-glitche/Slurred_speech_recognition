@@ -66,11 +66,11 @@ The system aims to improve quality of life and communication accessibility for i
   <tr>
     <td width="50%">
       <img src="docs/1.png" alt="Mel SPectogram" width="100%"/>
-      <p align="center"><b>Login & Registration</b><br/>Secure authentication system</p>
+      <p align="center"><b>Mel SPectogram</b><br/>Secure authentication system</p>
     </td>
     <td width="50%">
       <img src="docs/2.png" alt="Design" width="100%"/>
-      <p align="center"><b>Main Interface</b><br/>Audio recording and transcription</p>
+      <p align="center"><b>Design</b><br/>Audio recording and transcription</p>
     </td>
   </tr>
   <tr>
