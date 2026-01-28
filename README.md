@@ -60,7 +60,7 @@ The system aims to improve quality of life and communication accessibility for i
 
 ---
 
-## 📸 Screenshots
+## 📸 Diagrams
 
 <table>
   <tr>
